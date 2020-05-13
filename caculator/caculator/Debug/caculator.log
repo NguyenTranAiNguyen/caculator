@@ -1,0 +1,12 @@
+﻿  QIntClass.cpp
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(676,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(693,28): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(724,20): warning C4244: 'argument': conversion from 'short' to 'unsigned char', possible loss of data
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(724,6): warning C4805: '!=': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(724,61): warning C4244: 'argument': conversion from 'short' to 'unsigned char', possible loss of data
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(724,6): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(833,20): warning C4244: 'argument': conversion from 'short' to 'unsigned char', possible loss of data
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\QIntClass.cpp(868,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  caculator.vcxproj -> C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\Debug\caculator.exe

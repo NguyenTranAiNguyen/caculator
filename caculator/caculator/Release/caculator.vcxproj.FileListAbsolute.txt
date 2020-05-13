@@ -1,0 +1,6 @@
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.Form1.resources
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.vcxproj.GenerateResource.cache
+C:\Users\chibi\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.vcxprojAssemblyReference.cache
+C:\Users\chibi\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.Form1.resources
+C:\Users\chibi\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.vcxproj.GenerateResource.cache
+C:\Users\phong\Documents\GitHub\Project-1_Computer-Architecture_2020\finish\caculator\caculator\Release\caculator.vcxprojAssemblyReference.cache
